@@ -2,3 +2,4 @@
 Java设计模式及实践
 人工智能：CNN
 mysql实现原理
+linux命令与shell脚本编程大全
