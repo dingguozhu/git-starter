@@ -3,3 +3,5 @@ Java设计模式及实践
 人工智能：CNN
 mysql实现原理
 linux命令与shell脚本编程大全
+深入理解java虚拟机规范
+java并发编程的艺术
